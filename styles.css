@@ -1,6 +1,6 @@
 body {
   background: linear-gradient(white 50%, blue 50%);
-  background-size: 100% 500px; /* Adjust the stripe height as needed */
+  background-size: 100% 300px; /* Adjust the stripe height as needed */
   margin: 0;
   padding: 0;
   height: 100vh;

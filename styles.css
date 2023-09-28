@@ -1,3 +1,7 @@
 body {
-    background-color: #0000FF;
-  }
+  background: linear-gradient(white 50%, blue 50%);
+  background-size: 100% 20px; /* Adjust the stripe height as needed */
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}

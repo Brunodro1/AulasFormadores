@@ -2,18 +2,23 @@
 <!-- Início do título -->
 <head> 
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <h1 style="color: blue;"> Colégio Estadual Maria Arminda </h1> 
     <style>
         body {
-            background: linear-gradient(to right, blue 50%, lightgray 50%);
             margin: 0;
             padding: 0;
         }
 
+        .container {
+            background: linear-gradient(to right, blue 50%, lightgray 50%);
+            height: 100vh; /* Define a altura total da página para cobrir a janela de visualização */
+            display: flex; /* Define o modelo de layout flexível */
+            flex-direction: column; /* Define a direção do layout flexível como coluna */
+        }
+
         h1 {
-            text-align: left;
-            padding: 20px 0;
+            text-align: center;
             color: white;
+            padding: 20px;
         }
     </style>
 </head>

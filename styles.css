@@ -1,7 +1,18 @@
-head {background: lightblue}
-body {
-  background: white;
+/* Estilo para o header */
+header {
+  background-color: lightblue;
+  height: 33.33vh; /* Um terço da altura da página */
 }
+
+/* Estilo para o body */
+body {
+  background-color: white;
+  height: 33.33vh; /* Um terço da altura da página */
+}
+
+/* Estilo para o footer */
 footer {
-  background: rgb(0, 255, 242);
+  background-color: darkblue;
+  color: white;
+  height: 33.33vh; /* Um terço da altura da página */
 }

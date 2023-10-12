@@ -1,19 +1,18 @@
 p {text-align:left;}
-/* Estilo para o header */
 head {
   background-color: lightblue;
-  height: 33.33vh; /* Um terço da altura da página */
+  height: 33.33vh;
+  text-align:left;
 }
 
-/* Estilo para o body */
 body {
   background-color: white;
-  height: 33.33vh; /* Um terço da altura da página */
-}
+  height: 33.33vh;
+  text-align:left;
 
-/* Estilo para o footer */
 footer {
   background-color: darkblue;
   color: white;
-  height: 33.33vh; /* Um terço da altura da página */
+  height: 33.33vh;
+  text-align:left;
 }

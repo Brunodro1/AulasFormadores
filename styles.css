@@ -2,15 +2,20 @@ p {text-align:left;}
 
 h2 {text-align:center;}
 
-body {
-  background-color: lightskyblue;
-  height: 33.33vh;
-  text-align:left;
+/* Estilo para a primeira parte (branca) */
+.first-section {
+  background-color: white;
+  height: 33.33vh; /* Um terço da altura da página */
 }
 
-footer {
+/* Estilo para a segunda parte (lightblue) */
+.second-section {
+  background-color: lightblue;
+  height: 33.33vh; /* Um terço da altura da página */
+}
+
+/* Estilo para a terceira parte (darkblue) */
+.third-section {
   background-color: darkblue;
-  color: white;
-  height: 33.33vh;
-  text-align:left;
+  height: 33.33vh; /* Um terço da altura da página */
 }

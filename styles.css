@@ -7,7 +7,7 @@ font-family: Arial, Helvetica, sans-serif;
 /* Estilo para a primeira parte (branca) */
 .first-section {
   background-color: rgb(130, 169, 221);
-  font-size: 20px;
+  font-size: 30px;
   font-family: 'Times New Roman', Times, serif;
   height: 33.33vh; /* Um terço da altura da página */
 }

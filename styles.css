@@ -1,9 +1,6 @@
 p {text-align:left;}
-head {
-  background-color: lightblue;
-  height: 33.33vh;
-  text-align:left;
-}
+
+h2 {text-align:center;}
 
 body {
   background-color: lightskyblue;

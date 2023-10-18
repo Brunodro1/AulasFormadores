@@ -4,7 +4,7 @@ h2 {text-align:center;}
 
 /* Estilo para a primeira parte (branca) */
 .first-section {
-  background-color: white;
+  background-color: rgb(130, 169, 221);
   height: 33.33vh; /* Um terço da altura da página */
 }
 

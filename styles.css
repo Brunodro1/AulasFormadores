@@ -1,4 +1,12 @@
 p {text-align:left;}
+#titulo1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px; /* Tamanho da fonte */
+  color: #fcfcfc; /* Cor do texto */
+  font-weight: bold; /* Negrito */
+  /* Outros estilos que você desejar adicionar */
+}
+
 
 h2 {text-align:center;
   font-size: 35px;

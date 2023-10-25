@@ -5,8 +5,17 @@ h2 {text-align:center;
 font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background: linear-gradient(to bottom, saturate(150%, #f0f0f0), saturate(150%, #7f9fca), saturate(150%, #6889cf));
+  background: linear-gradient(to bottom, white, blue, lightblue, darkblue);
   height: 100vh; /* Garante que o degradê ocupe toda a altura da página */
+
+}
+.caixa {
+    width: 200px; /* Largura específica da caixa */
+    height: 100px; /* Altura específica da caixa */
+    background-color: lightblue; /* Cor de fundo específica */
+    color: darkblue; /* Cor do texto específica */
+    border: 2px solid blue; /* Borda de 2 pixels de largura com cor azul */
+    padding: 20px; /* Espaçamento interno de 20 pixels */
 }
 
 

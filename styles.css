@@ -10,7 +10,7 @@ body {
 
 }
 .caixa {
-    width: 200px; /* Largura específica da caixa */
+    width: 500px; /* Largura específica da caixa */
     height: 100px; /* Altura específica da caixa */
     background-color: lightblue; /* Cor de fundo específica */
     color: darkblue; /* Cor do texto específica */

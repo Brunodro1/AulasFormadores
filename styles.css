@@ -9,14 +9,27 @@ body {
   height: 100vh; /* Garante que o degradê ocupe toda a altura da página */
 
 }
-.caixa {
-    width: 500px; /* Largura específica da caixa */
-    height: 200px; /* Altura específica da caixa */
-    background-color: lightblue; /* Cor de fundo específica */
-    color: darkblue; /* Cor do texto específica */
-    border: 2px solid blue; /* Borda de 2 pixels de largura com cor azul */
-    padding: 20px; /* Espaçamento interno de 20 pixels */
+.caixa1 {
+  width: 400px;
+  height: 200px;
+  background-color: lightblue;
+  color: darkblue;
+  border: 2px solid blue;
+  padding: 20px;
+  float: left;
+  margin-right: 20px;
 }
+
+.caixa2 {
+  width: 500px;
+  height: 300px;
+  background-color: lightgreen;
+  color: darkgreen;
+  border: 2px solid green;
+  padding: 15px;
+  float: left;
+}
+
 
 
 

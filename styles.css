@@ -9,7 +9,7 @@ body {
   height: 100vh; /* Garante que o degradê ocupe toda a altura da página */
 
 }
-.caixa1 {
+.caixa {
   width: 400px;
   height: 200px;
   background-color: lightblue;
@@ -18,16 +18,6 @@ body {
   padding: 20px;
   float: left;
   margin-right: 0 auto;
-}
-
-.caixa2 {
-  width: 500px;
-  height: 300px;
-  background-color: lightgreen;
-  color: darkgreen;
-  border: 2px solid green;
-  padding: 15px;
-  float: left;
 }
 
 

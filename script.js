@@ -1,2 +1,2 @@
 // Seu código JavaScript aqui
-alert("Olá, Mundo!");
+alert("Eita, isso é um script?");

@@ -35,8 +35,10 @@ body {
 }
 .imagem-topo {
   position: absolute;
-  top: 5;
-  left: 5;
+  top: 2;
+  left: 2;
+  width: 50px;
+  height: auto;
 }
 
 footer {

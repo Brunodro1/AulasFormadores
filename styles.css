@@ -33,6 +33,12 @@ body {
   height: 100vh; /* Garante que o degradê ocupe toda a altura da página */
 
 }
+.imagem-topo {
+  position: absolute;
+  top: 5;
+  left: 5;
+}
+
 footer {
   background-color: darkblue;
   height: 1px; /* Define a altura da linha fina */

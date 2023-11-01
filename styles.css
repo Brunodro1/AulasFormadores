@@ -33,6 +33,10 @@ body {
   height: 100vh; /* Garante que o degradê ocupe toda a altura da página */
 
 }
+.third-section {
+  background-color: darkblue;
+  height: 33.33vh; /* Um terço da altura da página */
+}
 /*
 .caixa {
   width: 400px;

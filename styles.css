@@ -35,8 +35,8 @@ body {
 }
 .imagem-topo {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 1;
+  left: 1;
   width: 100px;
   height: auto;
 }

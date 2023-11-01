@@ -41,7 +41,10 @@ body {
   padding: 20px;
   display: inline-block;
 }
-
+.third-section {
+  background-color: darkblue;
+  height: 50px; /* Um terço da altura da página */
+}
 
 
 
